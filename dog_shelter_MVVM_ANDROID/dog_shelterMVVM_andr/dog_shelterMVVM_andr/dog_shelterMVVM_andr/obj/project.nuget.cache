@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tW4MM1zqkM7QE7M3EQp3cynQxCjWQVmrZ1VEeAX9v4eFEMV7eopdoaFQGmqb5oWiinzlFTapbEUaPoLX7u1JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Okunk\\Documents\\GitHub\\program-elkinkod-technotitans\\dog_shelter_MVVM_ANDROID\\dog_shelterMVVM_andr\\dog_shelterMVVM_andr\\dog_shelterMVVM_andr\\dog_shelterMVVM_andr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Okunk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Okunk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Okunk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Okunk\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Okunk\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
